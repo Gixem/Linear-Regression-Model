@@ -3,13 +3,13 @@ A simple linear regression model to predict house prices based on floor size. Th
 
 The model is trained using gradient descent and evaluated against a test dataset to assess its performance.
 
- Technologies Used
+## Technologies Used
 - Python 3.9
 - NumPy
 - Matplotlib
 
-How to run the code?
 
+## How to run the code?
 - Make sure you have the required libraries installed:
     pip install numpy matplotlib
 
@@ -18,7 +18,8 @@ How to run the code?
 - Run the main script:
   python simple_regression.py
 
-RESULTS
+
+## RESULTS
 
 The program generates two figures:
 
